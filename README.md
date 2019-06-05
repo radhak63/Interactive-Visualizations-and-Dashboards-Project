@@ -49,7 +49,8 @@ Used Plotly.js to build interactive charts for  dashboard.
 
 ## Step 2 - Heroku
 
-Working on deploying theFlask app to Heroku.
+Deployed theFlask app to Heroku.
+https://bbd-june-2019.herokuapp.com/ 
 
 ## Advanced Challenge  
 

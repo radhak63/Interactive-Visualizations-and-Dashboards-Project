@@ -49,14 +49,11 @@ Used Plotly.js to build interactive charts for  dashboard.
 
 ## Step 2 - Heroku
 
-Deployed your Flask app to Heroku.
-
-* Please use the provided sqlite file for the database.
-
+Working on deploying theFlask app to Heroku.
 
 ## Advanced Challenge  
 
-The following task is completely optional and is very advanced.
+The following task is  optional and is very advanced.
 
 * Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the Weekly Washing Frequency obtained from the route `/wfreq/<sample>`
 

@@ -22,7 +22,8 @@ function buildMetadata(sample) {
     // tags for each key-value in the metadata.
 
     // BONUS: Build the Gauge Chart
-    buildGauge(data.wfreq);
+    var FRQ = data['WFREQ'];
+    buildGauge(FRQ);
   });
 }
 

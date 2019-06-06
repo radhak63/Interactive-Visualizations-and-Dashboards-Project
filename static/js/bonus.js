@@ -2,9 +2,9 @@
 
 // Developed by Radha Mahalingam on 5/1/19
 
-function buildGauge(wfreq) {
+function buildGauge(WFREQ) {
   // Enter the washing frequency between 0 and 180
-  var level = parseFloat(wfreq) * 20;
+  var level = parseFloat(WFREQ) * 20;
 
   // Trig to calc meter point
   var degrees = 180 - level;
@@ -26,7 +26,7 @@ function buildGauge(wfreq) {
       type: "scatter",
       x: [0],
       y: [0],
-      marker: { size: 12, color: "850000" },
+      marker: { size: 28, color: "850000" },
       showlegend: false,
       name: "Freq",
       text: level,

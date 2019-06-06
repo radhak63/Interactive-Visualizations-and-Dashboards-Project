@@ -26,7 +26,7 @@ h1 {
 }
 
 #sampleMetadata {
-    width = "auto|length|%|initial|inherit";
+    width : "auto|length|%|initial|inherit";
     font-weight: bold;
 }
 
